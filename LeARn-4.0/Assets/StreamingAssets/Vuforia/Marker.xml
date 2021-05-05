@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Gluehbirne" size="0.030000 0.065932" />
+    <ImageTarget name="Hochofen" size="0.065000 0.102092" />
+    <ImageTarget name="Feder" size="0.030000 0.088644" />
+    <ImageTarget name="Herz" size="0.060000 0.081495" />
+    <ImageTarget name="Lunge" size="0.060000 0.094951" />
+    <ImageTarget name="Mikroskop" size="0.070000 0.125103" />
+  </Tracking>
+</QCARConfig>
